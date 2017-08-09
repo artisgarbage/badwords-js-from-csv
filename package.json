@@ -1,0 +1,32 @@
+{
+  "name": "badwords-js-from-csv",
+  "version": "1.0.0",
+  "description": "Simple profanity check module that inspects a string based on bad words that are defined CSV files within a folder.",
+  "main": "BadWords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Anthony Chavez",
+    "url": "https://github.com/artisgarbage/"
+  },
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "bad word",
+    "bad words",
+    "badword",
+    "badwords",
+    "profanity",
+    "profanity checker",
+    "node",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artisgarbage/badwords-js.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
