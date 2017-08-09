@@ -1,6 +1,6 @@
 {
   "name": "badwords-js-from-csv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple profanity check module that inspects a string based on bad words that are defined CSV files within a folder.",
   "main": "BadWords.js",
   "scripts": {
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/artisgarbage/badwords-js.git"
+    "url": "https://github.com/artisgarbage/badwords-js-from-csv"
   },
   "dependencies": {
     "lodash": "^4.17.4"
